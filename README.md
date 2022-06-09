@@ -1,12 +1,15 @@
-#Dapp para Mintear un NFT en la red de Celo
+# Dapp para Mintear un NFT en la red de Celo
 
 NFT para celebrar la Finalizacion del curso en Solidity impartido por Platzi
 
-#Integrantes del Equipo
+# Integrantes del Equipo
 
 Angel Gonzalez
 
 Agustin Vessoni
+
+
+
 
 # Dependencias necesarias
 
