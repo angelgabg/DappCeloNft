@@ -1,6 +1,4 @@
-# Basic Sample Hardhat Project
-
-Dependencias necesarias
+# Dependencias necesarias
 
 npm install --save-dev hardhat
 
